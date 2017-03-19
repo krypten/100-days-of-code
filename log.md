@@ -1,5 +1,38 @@
 # 100 Days Of Code - Log
 
+### Day 4: March 19, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**: Added code related to acccessiblity and keyboard control to
+ the stock market android application.
+
+**Thoughts:** I really struggled with testing and finding information regarding a11y. But I was
+able to manage with the resources available on android docs and internet.
+
+**Link to work:** [Stock Market Application](https://github.com/krypten/StockMonitoring)
+
+
+### Day 3: March 18, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**: Added code related to widget on the stock market android application.
+
+**Thoughts:** It was really fun working on the widget since I was able to reuse te content
+ providers for widget and had to write minimal code to create dynamic widget.
+
+**Link to work:** [Stock Market Application](https://github.com/krypten/StockMonitoring)
+
+
+### Day 2: March 17, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**: Started working on the stock market android application. 
+
+**Thoughts:** I really struggled with android application and working with fragments.
+
+**Link to work:** [Stock Market Application](https://github.com/krypten/StockMonitoring)
+
+
 ### Day 1: March 4, 2017
 ##### (delete me or comment me out)
 
@@ -8,6 +41,7 @@
 **Thoughts:** I really struggled with ploting the relative frequency on the histogram but finally found out the way using matplotlib.
 
 **Link to work:** [Playing cards statistical analysis](https://github.com/krypten/PlayingCardsStatisticalAnalysis)
+
 
 ### Day 0: March 3, 2017
 
