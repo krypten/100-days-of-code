@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+
+### Day 5: March 20, 2017
+
+**Today's Progress**: Added code related to on item click in the lsit view
+shown in the widget for this application
+
+**Thoughts:** Initially, nothing was working then I created an issue and left the task but later I was able to do it.
+
+**Link to work:** [Stock Market Application](https://github.com/krypten/StockHawk)
+
+
 ### Day 4: March 19, 2017
 ##### (delete me or comment me out)
 
@@ -9,7 +20,7 @@
 **Thoughts:** I really struggled with testing and finding information regarding a11y. But I was
 able to manage with the resources available on android docs and internet.
 
-**Link to work:** [Stock Market Application](https://github.com/krypten/StockMonitoring)
+**Link to work:** [Stock Market Application](https://github.com/krypten/StockHawk)
 
 
 ### Day 3: March 18, 2017
@@ -20,7 +31,7 @@ able to manage with the resources available on android docs and internet.
 **Thoughts:** It was really fun working on the widget since I was able to reuse te content
  providers for widget and had to write minimal code to create dynamic widget.
 
-**Link to work:** [Stock Market Application](https://github.com/krypten/StockMonitoring)
+**Link to work:** [Stock Market Application](https://github.com/krypten/StockHawk)
 
 
 ### Day 2: March 17, 2017
@@ -30,7 +41,7 @@ able to manage with the resources available on android docs and internet.
 
 **Thoughts:** I really struggled with android application and working with fragments.
 
-**Link to work:** [Stock Market Application](https://github.com/krypten/StockMonitoring)
+**Link to work:** [Stock Market Application](https://github.com/krypten/StockHawk)
 
 
 ### Day 1: March 4, 2017
