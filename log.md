@@ -1,12 +1,22 @@
 # 100 Days Of Code - Log
 
 
-### Day 5: March 20, 2017
+### Day 6: March 21, 2017
 
-**Today's Progress**: Added code related to on item click in the lsit view
+**Today's Progress**: Still Working on code related to on item click in the list view
 shown in the widget for this application
 
-**Thoughts:** Initially, nothing was working then I created an issue and left the task but later I was able to do it.
+**Thoughts:** Tried a couple of approachs but none worked finally moving on the problem and filed as an issue in project.
+
+**Link to work:** [Stock Market Application](https://github.com/krypten/StockHawk)
+
+
+### Day 5: March 20, 2017
+
+**Today's Progress**: Worked on code related to on item click in the lsit view
+shown in the widget for this application
+
+**Thoughts:** Initially, nothing was working then I created an issue and left the task but later I was able to get the logs.
 
 **Link to work:** [Stock Market Application](https://github.com/krypten/StockHawk)
 
