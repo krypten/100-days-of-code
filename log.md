@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 7: March 22, 2017
+
+**Today's Progress**: Started working with the boilerplate code provided by udacity on the joke telling up. Working on creating the jar library.
+
+**Thoughts:** Got to know about how to create a java library. 
+
+**Link to work:** [Joke Teller Application](https://github.com/krypten/JokeTeller)
 
 ### Day 6: March 21, 2017
 
