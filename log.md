@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 9: March 24, 2017
+
+**Today's Progress**: Working on the google cloud endpoint for the joke telling app.
+
+**Thoughts:** Got to know about how to create a google cloud endpoint and how to works.
+
+**Link to work:** [Joke Teller Application](https://github.com/krypten/JokeTeller)
+
+### Day 8: March 23, 2017
+
+**Today's Progress**: Working on creating a android library and linking the application with the jar library.
+
+**Thoughts:** Getting to know about the dependency graphs and also how modular it could be to use the java library to extract out your library code and then reuse in some other place.
+
+**Link to work:** [Joke Teller Application](https://github.com/krypten/JokeTeller)
+
 ### Day 7: March 22, 2017
 
 **Today's Progress**: Started working with the boilerplate code provided by udacity on the joke telling up. Working on creating the jar library.
