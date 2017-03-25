@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 10: March 25, 2017
+
+**Today's Progress**: Working on integrating the google cloud endpoint for the joke telling app. Also added test cases for async task using espresso
+
+**Thoughts:** Got to know about how to call a google cloud endpoint. For functional testing, espresso is a very powerful testing framework.
+
+**Link to work:** [Joke Teller Application](https://github.com/krypten/JokeTeller)
+
 ### Day 9: March 24, 2017
 
 **Today's Progress**: Working on the google cloud endpoint for the joke telling app.
