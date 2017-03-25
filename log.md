@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 11: March 26, 2017
+
+**Today's Progress**: Added multple product flavors to the application so that I could show ads in free versionand no ads in paid version.
+
+**Thoughts:** Understood the working of the product flavors in gradle build system and also how files are structured in multiple product flavors.
+
+**Link to work:** [Joke Teller Application](https://github.com/krypten/JokeTeller)
+
 ### Day 10: March 25, 2017
 
 **Today's Progress**: Working on integrating the google cloud endpoint for the joke telling app. Also added test cases for async task using espresso
