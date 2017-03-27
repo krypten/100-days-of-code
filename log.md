@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 12: March 27, 2017
+
+**Today's Progress**: Working on the feed reader requirements and improving the Readme.md.
+
+**Thoughts:** Understanding the requirement on the design side is difficult and its also challenging. 
+
+**Link to work:** [Your Feed Reader Application](https://github.com/krypten/YourFeedReader)
+
 ### Day 11: March 26, 2017
 
 **Today's Progress**: Added multple product flavors to the application so that I could show ads in free versionand no ads in paid version.
