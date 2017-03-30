@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 13: March 28, 2017
+
+**Today's Progress**: Refactor the stock hawk application code and also marked the application name as not translatable for consistency.
+
+**Thoughts:** Understood the importance of having a clean code.
+
+**Link to work:** [Stock Market Application](https://github.com/krypten/StockHawk)
+
 ### Day 12: March 27, 2017
 
 **Today's Progress**: Working on the feed reader requirements and improving the Readme.md.
