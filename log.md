@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 14: March 29, 2017
+
+**Today's Progress**: Working on getting the basic code running with for feed reader application.
+
+**Thoughts:** Got the hang of the list view and also the detail page. Also, struggled bit the gradle version and android studio gradle preferences.
+
+**Link to work:** [Your Feed Reader Application](https://github.com/krypten/YourFeedReader)
+
 ### Day 13: March 28, 2017
 
 **Today's Progress**: Refactor the stock hawk application code and also marked the application name as not translatable for consistency.
