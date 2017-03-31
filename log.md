@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16: March 31, 2017
+
+**Today's Progress**: Improved the design of the home page of feed reader application.
+
+**Thoughts:** Improved the user experience by improving the visual appearance of the home page.
+
+**Link to work:** [Your Feed Reader Application](https://github.com/krypten/YourFeedReader)
+
 ### Day 15: March 30, 2017
 
 **Today's Progress**: Improved the requirements and worked on animations for feed reader application.
