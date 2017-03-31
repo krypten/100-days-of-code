@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 15: March 30, 2017
+
+**Today's Progress**: Improved the requirements and worked on animations for feed reader application.
+
+**Thoughts:** Animations can change actually improved the design feel and user experience.
+
+**Link to work:** [Your Feed Reader Application](https://github.com/krypten/YourFeedReader)
+
 ### Day 14: March 29, 2017
 
 **Today's Progress**: Working on getting the basic code running with for feed reader application.
