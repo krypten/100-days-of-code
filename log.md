@@ -1,8 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 18: April 2, 2017
+
+**Today's Progress**: Worked on the implementation back propogation logic for neural network.
+
+**Thoughts:** Struggled a lot with the code and dot product of the matrix but I was finally able to get it.
+
+**Link to work:** [Bike Rental Ridership Prediction](https://github.com/krypten/BikeRentalRidershipPrediction)
+
 ### Day 17: April 1, 2017
 
-**Today's Progress**: Working on the implementation of neural network to predict the bike rental rideship data..
+**Today's Progress**: Worked on the implementation of neural network to predict the bike rental rideship data..
 
 **Thoughts:** I was able to implement the forward propogation but stuck with back propogation logic.
 
