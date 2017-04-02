@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 17: April 1, 2017
+
+**Today's Progress**: Working on the implementation of neural network to predict the bike rental rideship data..
+
+**Thoughts:** I was able to implement the forward propogation but stuck with back propogation logic.
+
+**Link to work:** [Bike Rental Ridership Prediction](https://github.com/krypten/BikeRentalRidershipPrediction)
+
 ### Day 16: March 31, 2017
 
 **Today's Progress**: Improved the design of the home page of feed reader application.
